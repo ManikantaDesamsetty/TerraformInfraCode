@@ -1,0 +1,6 @@
+rg_name            = "MANIKANTA"
+location           = "eastus"
+prefix             = "MANIKANTA"
+vnet_cidr_prefix   = "172.0.0.0/16"
+subnet_cidr_prefix = "172.0.0.0/24" 
+vm_size            = "Standard_B1s"
